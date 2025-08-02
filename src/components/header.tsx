@@ -32,7 +32,7 @@ export default function Header() {
                 </div>
               </div> */}
               <Image
-                src="/img/logo.png"
+                src="/bespoke-salon/img/logo.png"
                 alt="BESPOKE Logo"
                 width={120}
                 height={40}

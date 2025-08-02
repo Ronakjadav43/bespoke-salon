@@ -15,17 +15,17 @@ interface AboutSlide {
 const aboutSlides: AboutSlide[] = [
   {
     id: 1,
-    image: "/img/a1.png",
+    image: "/bespoke-salon/img/a1.png",
     alt: "Professional stylist working with client",
   },
   {
     id: 2,
-    image: "/img/a2.png",
+    image: "/bespoke-salon/img/a2.png",
     alt: "Hair coloring expertise",
   },
   {
     id: 3,
-    image: "/img/a3.png",
+    image: "/bespoke-salon/img/a3.png",
     alt: "Modern salon environment",
   }
  

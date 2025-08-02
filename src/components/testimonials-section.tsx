@@ -19,7 +19,7 @@ const testimonials: Testimonial[] = [
     id: 1,
     name: "Suhi Samuel",
     role: "Ace photographer",
-    image: "/img/t1.png",
+    image: "/bespoke-salon/img/t1.png",
     rating: 5,
     content:
       "Bespoke Salon has been my go-to place for all things hair, ever since Rohan, Farah, and Sandy started it in 2018. The vibe, energy, and people make every visit special. For me, Rohan has been more than a stylist—he's a true artist and dear friend who always brings out the best in my hair. The entire team at Bespoke is exceptional—not just in their skill set, but also in the way they create a space where you feel valued and pampered.",
@@ -28,7 +28,7 @@ const testimonials: Testimonial[] = [
     id: 2,
     name: "Priya Sharma",
     role: "Fashion Designer",
-    image: "/img/t2.png",
+    image: "/bespoke-salon/img/t2.png",
     rating: 5,
     content:
       "The transformation I experienced at Bespoke was beyond my expectations. The team's attention to detail and artistic vision is unmatched. They don't just style your hair; they understand your personality and create a look that truly represents you. The salon's ambiance is so relaxing, and every visit feels like a luxury experience.",
@@ -37,7 +37,7 @@ const testimonials: Testimonial[] = [
     id: 3,
     name: "Arjun Mehta",
     role: "Creative Director",
-    image: "/img/t3.png",
+    image: "/bespoke-salon/img/t3.png",
     rating: 5,
     content:
       "I've been a client at Bespoke for over three years, and they never cease to amaze me. The level of professionalism combined with genuine care for their clients is rare to find. Whether it's a simple trim or a complete makeover, they approach each service with the same dedication and artistry. Highly recommend to anyone looking for exceptional hair care.",
@@ -46,7 +46,7 @@ const testimonials: Testimonial[] = [
     id: 4,
     name: "Kavya Patel",
     role: "Entrepreneur",
-    image: "/img/t1.png",
+    image: "/bespoke-salon/img/t1.png",
     rating: 5,
     content:
       "Bespoke Salon is where artistry meets excellence. The team's expertise in color and styling is phenomenal. They took the time to understand my lifestyle and preferences, creating a look that's both stunning and manageable. The salon's atmosphere is so welcoming, and the results speak for themselves. I always leave feeling confident and beautiful.",
@@ -55,7 +55,7 @@ const testimonials: Testimonial[] = [
     id: 5,
     name: "Rohit Gupta",
     role: "Actor",
-    image: "/img/t2.png",
+    image: "/bespoke-salon/img/t2.png",
     rating: 5,
     content:
       "As someone in the entertainment industry, I need to look my best at all times. Bespoke Salon has been my trusted partner in achieving that. Their understanding of current trends combined with classic techniques ensures I always have a fresh, contemporary look. The team is professional, talented, and genuinely cares about their craft.",
